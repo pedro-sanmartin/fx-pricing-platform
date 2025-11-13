@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "subtitle": "Dollar value today",
+    "title": "1 USD = {rate} {currency}",
+    "timestamp": "Exchange rate for {date} UTC."
+  },
+  "conversion": {
+    "title": "Be Global,",
+    "titleBlue": "pay like local",
+    "description": "Your Global Account to pay, convert, send money and more."
+  },
+  "header": {
+    "personas": "INDIVIDUALS",
+    "empresas": "BUSINESSES",
+    "productos": "Products",
+    "beneficios": "Benefits",
+    "ayuda": "Help",
+    "iniciarSesion": "Sign In",
+    "crearCuenta": "Create Account"
+  },
+  "seo": {
+    "title": "Dollar value today in {currencyName} ({currency}) - {rate} {currency}",
+    "description": "Check the exchange rate of the US dollar (USD) to {currencyName} ({currency}). 1 USD = {rate} {currency}. Updated exchange rate."
+  },
+  "currency": {
+    "CLP": "Chilean Peso",
+    "PEN": "Peruvian Sol"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "subtitle": "Valor del dólar hoy",
+    "title": "1 USD = {rate} {currency}",
+    "timestamp": "Tipo de cambio para {date} UTC."
+  },
+  "conversion": {
+    "title": "Sé Global,",
+    "titleBlue": "paga como local",
+    "description": "Tu Cuenta Global para pagar, convertir, enviar dinero y más."
+  },
+  "header": {
+    "personas": "PERSONAS",
+    "empresas": "EMPRESAS",
+    "productos": "Productos",
+    "beneficios": "Beneficios",
+    "ayuda": "Ayuda",
+    "iniciarSesion": "Iniciar Sesión",
+    "crearCuenta": "Crear cuenta"
+  },
+  "seo": {
+    "title": "Valor del dólar hoy en {currencyName} ({currency}) - {rate} {currency}",
+    "description": "Consulta el tipo de cambio del dólar estadounidense (USD) a {currencyName} ({currency}). 1 USD = {rate} {currency}. Tipo de cambio actualizado."
+  },
+  "currency": {
+    "CLP": "Peso Chileno",
+    "PEN": "Sol Peruano"
+  }
+}
