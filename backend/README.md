@@ -1,12 +1,13 @@
-# Global66 Technical Test - Backend API (Parte C)
+# fx-pricing-platform — Backend API
 
-API REST desarrollada con Express.js para la prueba técnica de Lead Web Frontend de Global66.
+API REST desarrollada con Node.js y Express para la consulta de tasas de cambio y gestión de suscripciones.
 
 ## 📋 Descripción
 
 Backend API que proporciona:
 - **Endpoint GET `/api/rates`**: Obtiene tasas de cambio de divisas (con soporte para API externa o datos mockeados)
 - **Endpoint POST `/api/subscribe`**: Guarda datos de suscripción (name y email) en Google Spreadsheet
+- **GET `/health`** → Health check del servidor  
 
 ### 📊 Google Spreadsheet (Público)
 
@@ -403,9 +404,10 @@ Todas las capturas de pantalla están disponibles en [`docs/screenshots/`](docs/
 
 ## 📝 Licencia
 
-Este proyecto es parte de una prueba técnica para Global66.
+Full stack portfolio project demonstrating API design, external integrations and production-ready backend architecture.
 
 ## 👤 Autor
 
-psanmartin2022
-
+Pedro San Martín
+Frontend & Full Stack Developer
+Chile

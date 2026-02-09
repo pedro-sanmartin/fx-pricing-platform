@@ -1,10 +1,25 @@
-# Global66 - Frontend Technical Test
+# fx-pricing-platform
 
 Aplicación frontend desarrollada con Nuxt 2, TailwindCSS y SSR para mostrar tipos de cambio de divisas.
+
+## 🌐 Demo online
+https://global66-technical-test.vercel.app/precio/peso-chileno
+https://global66-technical-test.vercel.app/precio/sol-peruano
 
 ## 📋 Descripción del Proyecto
 
 Esta aplicación permite consultar el valor del dólar estadounidense (USD) en diferentes divisas latinoamericanas. La aplicación está construida con Nuxt 2, utiliza Server-Side Rendering (SSR) para SEO y rendimiento, y TailwindCSS para el diseño responsive.
+
+## 💼 Sobre este proyecto
+
+Este proyecto fue desarrollado como parte de un desafío técnico frontend, y posteriormente refactorizado y mejorado como pieza de portafolio profesional.
+
+El objetivo es demostrar buenas prácticas en:
+- Arquitectura frontend con Nuxt SSR
+- SEO técnico
+- Internacionalización
+- Estructura escalable de componentes
+- Código limpio y mantenible
 
 ### Características principales
 
@@ -176,4 +191,10 @@ Cada página incluye:
 
 ## 📄 Licencia
 
-Este proyecto es parte de una prueba técnica para Global66.
+Proyecto de práctica y demostración técnica con fines educativos y de portafolio profesional.
+
+## 👤 Autor
+
+Pedro San Martín
+Frontend & Full Stack Developer
+Chile
