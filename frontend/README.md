@@ -191,7 +191,7 @@ Cada página incluye:
 
 ## 📄 Licencia
 
-Proyecto de práctica y demostración técnica con fines educativos y de portafolio profesional.
+Este proyecto está bajo la licencia personalizada de **«Uso para Evaluación»**. Consulta los detalles en el archivo [LICENSE](../LICENSE) en la raíz del repositorio.
 
 ## 👤 Autor
 

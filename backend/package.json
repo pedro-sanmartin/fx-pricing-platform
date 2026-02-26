@@ -14,7 +14,7 @@
     "global66"
   ],
   "author": "psanmartin2022",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",

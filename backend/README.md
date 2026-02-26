@@ -404,7 +404,7 @@ Todas las capturas de pantalla están disponibles en [`docs/screenshots/`](docs/
 
 ## 📝 Licencia
 
-Full stack portfolio project demonstrating API design, external integrations and production-ready backend architecture.
+Este proyecto está bajo la licencia personalizada de **«Uso para Evaluación»**. Consulta los detalles en el archivo [LICENSE](../LICENSE) en la raíz del repositorio.
 
 ## 👤 Autor
 
