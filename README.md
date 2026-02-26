@@ -124,3 +124,9 @@ El backend requiere variables de entorno para:
 Frontend & Full Stack Developer — Chile
 
 - [GitHub](https://github.com/pedro-sanmartin)
+
+---
+
+## ⚖️ Licencia
+
+Este proyecto está bajo una licencia personalizada de **«Uso para Evaluación»**. [Consulta los detalles aquí](LICENSE).
